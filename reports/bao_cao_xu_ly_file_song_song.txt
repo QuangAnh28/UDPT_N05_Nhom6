@@ -1,0 +1,11 @@
+BAO CAO XU LY FILE SONG SONG
+============================
+Tong so file: 4
+
+file1.txt: 1 dong, 9 tu, 46 ky tu
+file2.txt: 1 dong, 10 tu, 45 ky tu
+file3.txt: 1 dong, 10 tu, 43 ky tu
+file4.txt: 1 dong, 8 tu, 44 ky tu
+
+Tong so tu cua tat ca file: 37
+Tong so ky tu cua tat ca file: 178

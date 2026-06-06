@@ -1,0 +1,4 @@
+Ten file: file1.txt
+So dong: 1
+So tu: 9
+So ky tu: 46
