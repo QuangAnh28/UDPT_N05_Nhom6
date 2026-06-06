@@ -1,0 +1,10 @@
+
+=== TASK RETRY ===
+Thoi gian: 2026-06-06 17:12:14.607135
+Task: kiem_tra_va_xu_ly_file
+Lan thu: 1
+
+=== TASK RETRY ===
+Thoi gian: 2026-06-06 17:12:25.125306
+Task: kiem_tra_va_xu_ly_file
+Lan thu: 2

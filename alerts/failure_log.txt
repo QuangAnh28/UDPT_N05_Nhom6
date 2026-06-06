@@ -1,0 +1,5 @@
+
+=== TASK THAT BAI ===
+Thoi gian: 2026-06-06 17:12:36.179041
+Task: kiem_tra_va_xu_ly_file
+Loi: File file_loi.txt co noi dung ERROR nen task bi loi

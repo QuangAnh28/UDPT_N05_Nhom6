@@ -1,0 +1,27 @@
+BAO CAO GIAM SAT LOI VA RETRY
+==============================
+Thoi gian tao bao cao: 2026-06-06 17:12:37.301013
+
+1. Thong tin retry:
+
+=== TASK RETRY ===
+Thoi gian: 2026-06-06 17:12:14.607135
+Task: kiem_tra_va_xu_ly_file
+Lan thu: 1
+
+=== TASK RETRY ===
+Thoi gian: 2026-06-06 17:12:25.125306
+Task: kiem_tra_va_xu_ly_file
+Lan thu: 2
+
+
+2. Thong tin task that bai:
+
+=== TASK THAT BAI ===
+Thoi gian: 2026-06-06 17:12:36.179041
+Task: kiem_tra_va_xu_ly_file
+Loi: File file_loi.txt co noi dung ERROR nen task bi loi
+
+
+Ket luan:
+Workflow da co co che retry va ghi log khi task gap loi.
